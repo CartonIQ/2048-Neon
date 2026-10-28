@@ -1,0 +1,10 @@
+*.apk
+*.aab
+*.keystore
+*.jks
+build/
+.gradle/
+local.properties
+icon.png
+*.bak
+*.log

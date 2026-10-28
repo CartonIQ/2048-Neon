@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#0B0F19</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9AA4BF</color>
+    <color name="neon_cyan">#00F0FF</color>
+    <color name="neon_purple">#7000FF</color>
+    <color name="neon_red">#FF3B5C</color>
+    <color name="glass_dock_fill">#CC1A1F33</color>
+    <color name="glass_dock_stroke">#4D00F0FF</color>
+    <color name="card_fill">#1A1F33</color>
+    <color name="card_stroke">#3300F0FF</color>
+    <color name="grid_fill">#121826</color>
+    <color name="grid_stroke">#667000FF</color>
+    <color name="nav_indicator">#3800F0FF</color>
+    <color name="glow_start">#5000F0FF</color>
+    <color name="glow_end">#0000F0FF</color>
+    <color name="tile_text_light">#FFFFFF</color>
+    <color name="tile_text_dark">#0B0F19</color>
+    <color name="button_text_dark">#0B0F19</color>
+    <color name="glass_sheen_start">#26FFFFFF</color>
+    <color name="glass_sheen_end">#00FFFFFF</color>
+    <color name="ambient_purple_start">#427000FF</color>
+    <color name="ambient_purple_end">#007000FF</color>
+    <color name="ambient_cyan_start">#3300F0FF</color>
+    <color name="ambient_cyan_end">#0000F0FF</color>
+    <color name="gold">#FFD93D</color>
+    <color name="grid_fill_end">#1B1F3A</color>
+    <color name="ambient_pink_start">#2AFF4DE3</color>
+    <color name="ambient_pink_end">#00FF4DE3</color>
+</resources>

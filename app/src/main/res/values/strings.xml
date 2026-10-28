@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2048 Neon</string>
+    <string name="tagline">Merge tiles. Beat your high score.</string>
+
+    <string name="nav_play">Play</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="score_label">SCORE</string>
+    <string name="best_label">BEST</string>
+    <string name="title_game">2048 NEON</string>
+    <string name="undo">UNDO</string>
+    <string name="hint">HINT</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="new_game_short">New Game</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="keep_going">Keep Going</string>
+
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_message">No more moves. Final score: %1$d</string>
+    <string name="victory_title">You made 2048!</string>
+    <string name="victory_message">Amazing! You built the 2048 tile with a score of %1$d. Keep Going to chase an even bigger tile, or start a new game.</string>
+    <string name="confirm_new_title">Start a new game?</string>
+    <string name="confirm_new_message">Your current score will be saved to the leaderboard.</string>
+
+    <string name="nothing_to_undo">Nothing to undo yet</string>
+    <string name="no_moves">No moves available</string>
+    <string name="ad_not_ready">Ad not ready yet. Please try again in a moment.</string>
+    <string name="hint_left">Best move: swipe LEFT</string>
+    <string name="hint_right">Best move: swipe RIGHT</string>
+    <string name="hint_up">Best move: swipe UP</string>
+    <string name="hint_down">Best move: swipe DOWN</string>
+
+    <string name="hall_of_fame">HALL OF FAME</string>
+    <string name="top_ten_subtitle">Your Top 10 Scores</string>
+    <string name="empty_scores">No scores yet. Play your first game!</string>
+    <string name="best_tile_format">Best tile %1$d &#183; %2$s</string>
+    <string name="trophy_description">Trophy</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="section_appearance">APPEARANCE</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System Default</string>
+    <string name="section_tile_theme">TILE THEME</string>
+    <string name="tile_neon">Neon</string>
+    <string name="tile_classic">Classic</string>
+    <string name="tile_pastel">Pastel</string>
+    <string name="section_about">ABOUT</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_text">2048 Neon works fully offline. Your scores and settings are stored only on this device. The app shows ads through Google AdMob, which may use an advertising ID to serve ads. We do not collect any personal information.</string>
+    <string name="version_label">Version 1.0.0</string>
+    <string name="store_unavailable">Could not open the store</string>
+
+    <string name="stat_games">GAMES</string>
+    <string name="stat_wins">WINS</string>
+    <string name="stat_win_rate">WIN RATE</string>
+    <string name="stat_best_tile">BEST TILE</string>
+    <string name="stat_avg">AVG SCORE</string>
+    <string name="stat_moves">MOVES</string>
+
+    <string name="section_feedback">FEEDBACK</string>
+    <string name="sound_effects">Sound effects</string>
+    <string name="haptic_feedback">Haptic feedback</string>
+    <string name="section_data">DATA</string>
+    <string name="reset_stats">Reset Stats</string>
+    <string name="reset_title">Reset all stats?</string>
+    <string name="reset_message">This clears your leaderboard, best score and statistics. This cannot be undone.</string>
+    <string name="reset_confirm">Reset</string>
+    <string name="reset_done">Stats cleared</string>
+
+    <string name="how_to_play">How to Play</string>
+    <string name="help_description">How to play</string>
+    <string name="how_title">How to Play</string>
+    <string name="how_goal_h">GOAL</string>
+    <string name="how_goal">Slide the numbered tiles and merge matching ones to build bigger numbers. Create the 2048 tile to win.</string>
+    <string name="how_move_h">HOW TO MOVE</string>
+    <string name="how_move">Swipe left, right, up or down anywhere on the screen. Every tile slides as far as it can in that direction. After each move that changes the board, a new 2 or 4 tile appears.</string>
+    <string name="how_merge_h">MERGING</string>
+    <string name="how_merge">When two tiles with the same number touch, they merge into one tile with double the value, and the new value is added to your score. A tile can merge only once per move.</string>
+    <string name="how_ladder_h">TILE LADDER</string>
+    <string name="how_ladder">Keep merging to climb the ladder up to the glowing 2048 tile.</string>
+    <string name="how_win_h">HOW YOU WIN</string>
+    <string name="how_win_1">1. Merge two 1024 tiles to create a 2048 tile.</string>
+    <string name="how_win_2">2. Confetti and a fanfare celebrate, then the Victory screen shows your score.</string>
+    <string name="how_win_3">3. Keep Going lets you play on for an even bigger tile. The win is counted once, and the Victory screen will not appear again in the same game.</string>
+    <string name="how_win_4">4. New Game ends the run. Your score goes to the Hall of Fame with a WIN badge and your Stats record the win.</string>
+    <string name="how_over_h">GAME OVER</string>
+    <string name="how_over">The game ends when the board is full and no neighbouring tiles match. Your score is saved to the Hall of Fame.</string>
+    <string name="how_help_h">UNDO AND HINT</string>
+    <string name="how_help">Watch a short rewarded ad to undo your last move, or to see the best next move shown with a glowing arrow.</string>
+    <string name="how_tips_h">PRO TIPS</string>
+    <string name="how_tips">Keep your biggest tile in a corner. Build a descending chain of tiles along one edge. Avoid swiping away from your corner unless you have to.</string>
+    <string name="how_got_it">Got it!</string>
+    <string name="win_badge">WIN</string>
+</resources>
